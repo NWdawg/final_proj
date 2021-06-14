@@ -1,0 +1,25 @@
+{
+    "name": "RightRobot",
+    "type": "dynamic",
+    "description": "Replace this string with a description",
+    "shape": [
+        { "x": -2, "y": 25 },
+        { "x": 2, "y": 25 },
+        { "x": 2, "y": -25 },
+        { "x": -2, "y": -25 }
+    ],
+    "friction": {
+      "collision": 0,
+      "linear": 0,
+      "rotational": 0
+    },
+    "sensors": [
+      {
+        "type": "range",
+        "location": { "x": 16, "y": 0 },
+        "direction": 0
+      }
+    ],
+    "mass": 1,    
+    "controller": "lib/right_robot.so"
+}
