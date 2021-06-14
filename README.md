@@ -22,6 +22,10 @@ Open the browser and go to: `http://localhost`
 
 Once the sticks finish the first go, use our judgment and click on the scree to relocate the sticks, so that the sticks can push the remaining blocks to opposite directions.
 
+## Licence
+
+[MIT Licence](https://opensource.org/licenses/MIT)
+
 ## Acknowledgements
 
 Used [elma](https://github.com/klavinslab/elma) 
