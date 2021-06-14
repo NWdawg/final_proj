@@ -8,17 +8,17 @@ Use 2 stick-like rectangulars to sweep the blocks to different side on the canva
 ## Installation
 Use `git clone` to get the code.
 
-Run the docker container which has pre-loaded ENVIRO `docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:v1.61 bash`
+Run the docker container which has pre-loaded ENVIRO: `docker run -p80:80 -p8765:8765 -v $PWD:/source -it klavins/enviro:v1.61 bash`
 
-Start the esm `esm start`
+Start the esm: `esm start`
 
-Compile the code `make`
+Compile the code: `make`
 
 ## Run the project
 
-Start the project `enviro`
+Start the project: `enviro`
 
-Open the browser and go to `http://localhost`
+Open the browser and go to: `http://localhost`
 
 Once the sticks finish the first go, use our judgment and click on the scree to relocate the sticks, so that the sticks can push the remaining blocks to opposite directions.
 
