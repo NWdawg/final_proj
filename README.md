@@ -1,5 +1,5 @@
 # EEP 520 project
-## Project: Click and push
+## Project: Click and push(option2)
 ## Overview:
 Use 2 stick-like rectangulars to sweep the blocks to different side on the canvas. Click manually to reset the positions of the sticks, then let go and let the sticks to push to opposite directions.
 ## Key challenges:
